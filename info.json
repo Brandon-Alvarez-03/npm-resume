@@ -1,0 +1,21 @@
+{
+  "name": "Brandon Alvarez",
+  "linkedin": "https://www.linkedin.com/in/brandon-alvarez-03balv",
+  "github": "https://github.com/Brandon-Alvarez-03",
+  "email": "balvarez325@gmail.com",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Wordpress",
+    "Drupal",
+    "HTML",
+    "CSS"
+  ],
+  "otherSkills": ["Excellent breakfast-maker", "Amateur Bassist"]
+}
